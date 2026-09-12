@@ -1,0 +1,28 @@
+{
+  "metrics": {
+    "weighted_response_sum": 10297.89182172381,
+    "weighted_response_mean": 166.09502938264208,
+    "p3_mean_response": 46.7104031307267,
+    "p3_median_response": 47.72815271387487,
+    "p3_max_response": 75.06784770849728,
+    "p3_min_response": 8.09629562308865,
+    "p3_count": 12,
+    "total_outage_minutes": 116,
+    "outage_minutes_LL": 114,
+    "outage_minutes_UL": 114,
+    "outage_minutes_LR": 116,
+    "outage_minutes_UR": 113,
+    "total_incidents": 100,
+    "assigned_incidents": 62,
+    "waiting_incidents": 38,
+    "invalid_assignment_attempts": 0,
+    "duplicate_assignments": 0,
+    "assignments_to_busy_vehicles": 0,
+    "assignments_before_reveal": 0,
+    "simulation_runtime": 0.1725461483001709,
+    "dispatcher_runtime": 0.0009646415710449219,
+    "metrics_runtime": 0.0,
+    "total_runtime": 0.1725461483001709
+  },
+  "seed": 20260911
+}
